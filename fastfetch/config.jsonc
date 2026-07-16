@@ -1,0 +1,19 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo" : {
+    "type" : "file",
+    "source" : "C:/Users/gim95/.config/fastfetch/asciiart.txt"
+  },
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "cpu", 
+    "gpu",
+    "memory",
+    "disk",
+    "separator",
+    "shell",
+    "datetime"
+  ]
+}

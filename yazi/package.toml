@@ -1,0 +1,54 @@
+[[plugin.deps]]
+use = "yazi-rs/plugins:mime-ext"
+rev = "5d461d8"
+hash = "cdc2f9417e2f0785dfd3c9871b8738bb"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:smart-enter"
+rev = "5d461d8"
+hash = "2ede7b0f1beade8390be1b52cfed6a49"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:full-border"
+rev = "5d461d8"
+hash = "1e3b6c8b03dae81c3672ec9e9700b666"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:toggle-pane"
+rev = "5d461d8"
+hash = "c6b793c9badd85e9c992f41b449d02c5"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:jump-to-char"
+rev = "5d461d8"
+hash = "6e67c36d6c25fc84cb0976aac8a3ff5"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:git"
+rev = "5d461d8"
+hash = "b94720e0ef40cb0e97093fabd9694775"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:smart-filter"
+rev = "5d461d8"
+hash = "21de6e2a801fc8960038ff8a533f24c0"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:smart-paste"
+rev = "5d461d8"
+hash = "e44dcc831ee62d5f79a1f8130cfdc847"
+
+[[flavor.deps]]
+use = "yazi-rs/flavors:catppuccin-mocha"
+rev = "4770a34"
+hash = "5ebc8659108fcb68fe853e523115ed3c"
+
+[[flavor.deps]]
+use = "yazi-rs/flavors:catppuccin-macchiato"
+rev = "4770a34"
+hash = "fa7b78b7965b2065c48399d47144b35e"
+
+[[flavor.deps]]
+use = "marcosvnmelo/kanagawa-dragon"
+rev = "b433f4a"
+hash = "27b78dc4da505f07941d9592f1bb1f17"

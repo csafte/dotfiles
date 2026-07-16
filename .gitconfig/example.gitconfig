@@ -1,0 +1,7 @@
+[user]
+	name = Your Name 
+	email = Your Email 
+[init]
+	defaultBranch = main
+[core]
+	pager = delta

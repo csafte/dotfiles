@@ -176,13 +176,13 @@ binding_modes:
 keybindings:
   # Shift focus in a given direction.
   - commands: ['focus --direction left']
-    bindings: [alt+h']
+    bindings: ['alt+left','alt+h']
   - commands: ['focus --direction right']
-    bindings: ['alt+l']
+    bindings: ['alt+right','alt+l']
   - commands: ['focus --direction up']
-    bindings: ['alt+j']
+    bindings: ['alt+up','alt+j']
   - commands: ['focus --direction down']
-    bindings: ['alt+k']
+    bindings: ['alt+down','alt+k']
 
   # Move focused window in a given direction.
   - commands: ['move --direction left']

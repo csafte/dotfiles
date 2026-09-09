@@ -7,3 +7,4 @@
 [2m2026-07-04T14:35:23.679410Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected ',' or ']' at line 263 column 17, while parsing a flow sequence at line 262 column 15
 [2m2026-07-09T08:08:50.547322Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
 [2m2026-07-09T08:08:53.883245Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-08-26T12:18:41.419534Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to get container to focus.

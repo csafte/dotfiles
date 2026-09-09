@@ -31,6 +31,7 @@ return {
 				"powershell_es", -- for Powershell
 				"yamlls", -- for Yaml
 				"sqlls", -- for Sql
+				"marksman", --for MarkDown
 			},
 			automatic_enable = true,
 		},
@@ -48,8 +49,8 @@ return {
 				"isort", -- for Python
 				"stylua", -- for Lua
 				"clang-format", -- for C & C++
-				"prettierd", -- for JS & TS / Yaml
-				"prettier", -- for JS & TS / Yaml
+				"prettierd", -- for JS & TS / Yaml / MarkDown
+				"prettier", -- for JS & TS / Yaml / MarkDown
 				"typstyle", -- for Typst
 				"sqruff", -- for Sql
 				-- linter
@@ -58,7 +59,7 @@ return {
 				"cpplint", -- for C & C++
 				"sql-formatter", -- for Sql
 				-- Formatter, linter
-				"cmakelang", -- for Cmake
+				"cmakelint", -- for Cmake
 			},
 		},
 	},

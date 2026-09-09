@@ -10,7 +10,7 @@ return {
 			python = { "pylint" },
 			cpp = { "cpplint" },
 			c = { "cpplint" },
-			cmake = { "cmakelang" },
+			cmake = { "cmake_lint" },
 			sql = { "sql-formatter" },
 		}
 

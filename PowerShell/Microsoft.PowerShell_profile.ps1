@@ -2,6 +2,8 @@ oh-my-posh init pwsh --config '~/Documents/PowerShell/amro.omp.json' | Invoke-Ex
 
 Invoke-Expression (& { (zoxide init powershell | Out-String) })
 
+mise activate pwsh | Out-String | Invoke-Expression
+
 Import-Module Zpin
 
 function ll

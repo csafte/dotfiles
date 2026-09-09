@@ -3,7 +3,7 @@
 !example.env
 
 yasb/config.yaml
-yasb/yasb*.log 
+yasb/yasb.log.*
 
 nvim/lazy-lock.json
 .gitconfig/.gitconfig 
